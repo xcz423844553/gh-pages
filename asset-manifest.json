@@ -1,17 +1,21 @@
 {
   "files": {
     "main.css": "/home/static/css/main.003aee3a.chunk.css",
-    "main.js": "/home/static/js/main.e911376b.chunk.js",
-    "main.js.map": "/home/static/js/main.e911376b.chunk.js.map",
+    "main.js": "/home/static/js/main.16f05519.chunk.js",
+    "main.js.map": "/home/static/js/main.16f05519.chunk.js.map",
     "runtime~main.js": "/home/static/js/runtime~main.651e27bc.js",
     "runtime~main.js.map": "/home/static/js/runtime~main.651e27bc.js.map",
     "static/css/2.93e9ecf4.chunk.css": "/home/static/css/2.93e9ecf4.chunk.css",
-    "static/js/2.dc5a322b.chunk.js": "/home/static/js/2.dc5a322b.chunk.js",
-    "static/js/2.dc5a322b.chunk.js.map": "/home/static/js/2.dc5a322b.chunk.js.map",
+    "static/js/2.68bb7c5b.chunk.js": "/home/static/js/2.68bb7c5b.chunk.js",
+    "static/js/2.68bb7c5b.chunk.js.map": "/home/static/js/2.68bb7c5b.chunk.js.map",
     "index.html": "/home/index.html",
-    "precache-manifest.3a1a3dbcee762c1e89dd53a7a9fa6e76.js": "/home/precache-manifest.3a1a3dbcee762c1e89dd53a7a9fa6e76.js",
+    "precache-manifest.9b74bdb42a195858011259f6a27bc040.js": "/home/precache-manifest.9b74bdb42a195858011259f6a27bc040.js",
     "service-worker.js": "/home/service-worker.js",
     "static/css/2.93e9ecf4.chunk.css.map": "/home/static/css/2.93e9ecf4.chunk.css.map",
-    "static/css/main.003aee3a.chunk.css.map": "/home/static/css/main.003aee3a.chunk.css.map"
+    "static/css/main.003aee3a.chunk.css.map": "/home/static/css/main.003aee3a.chunk.css.map",
+    "static/media/2019-04-16-how-to-install-github-on-ubuntu.md": "/home/static/media/2019-04-16-how-to-install-github-on-ubuntu.7d70522b.md",
+    "static/media/2019-04-16-how-to-install-mysql-on-ubuntu.md": "/home/static/media/2019-04-16-how-to-install-mysql-on-ubuntu.8a89147c.md",
+    "static/media/2019-04-17-how-to-use-git.md": "/home/static/media/2019-04-17-how-to-use-git.ffa93498.md",
+    "static/media/2019-08-06-SQL-Study-Notes.md": "/home/static/media/2019-08-06-SQL-Study-Notes.f16a69c2.md"
   }
 }
