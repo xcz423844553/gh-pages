@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.003aee3a.chunk.css",
-    "main.js": "./static/js/main.a5c533fe.chunk.js",
-    "main.js.map": "./static/js/main.a5c533fe.chunk.js.map",
-    "runtime~main.js": "./static/js/runtime~main.2c633914.js",
-    "runtime~main.js.map": "./static/js/runtime~main.2c633914.js.map",
-    "static/css/2.93e9ecf4.chunk.css": "./static/css/2.93e9ecf4.chunk.css",
-    "static/js/2.fc5cdd44.chunk.js": "./static/js/2.fc5cdd44.chunk.js",
-    "static/js/2.fc5cdd44.chunk.js.map": "./static/js/2.fc5cdd44.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.d3e6d06068dea6d964a4146304525303.js": "./precache-manifest.d3e6d06068dea6d964a4146304525303.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.93e9ecf4.chunk.css.map": "./static/css/2.93e9ecf4.chunk.css.map",
-    "static/css/main.003aee3a.chunk.css.map": "./static/css/main.003aee3a.chunk.css.map",
-    "static/media/2019-04-16-how-to-install-github-on-ubuntu.md": "./static/media/2019-04-16-how-to-install-github-on-ubuntu.7d70522b.md",
-    "static/media/2019-04-16-how-to-install-mysql-on-ubuntu.md": "./static/media/2019-04-16-how-to-install-mysql-on-ubuntu.8a89147c.md",
-    "static/media/2019-04-17-how-to-use-git.md": "./static/media/2019-04-17-how-to-use-git.ffa93498.md",
-    "static/media/2019-08-06-sql-study-notes.md": "./static/media/2019-08-06-sql-study-notes.f16a69c2.md"
+    "main.css": "/home/static/css/main.003aee3a.chunk.css",
+    "main.js": "/home/static/js/main.79efec63.chunk.js",
+    "main.js.map": "/home/static/js/main.79efec63.chunk.js.map",
+    "runtime~main.js": "/home/static/js/runtime~main.651e27bc.js",
+    "runtime~main.js.map": "/home/static/js/runtime~main.651e27bc.js.map",
+    "static/css/2.93e9ecf4.chunk.css": "/home/static/css/2.93e9ecf4.chunk.css",
+    "static/js/2.0aad3bc9.chunk.js": "/home/static/js/2.0aad3bc9.chunk.js",
+    "static/js/2.0aad3bc9.chunk.js.map": "/home/static/js/2.0aad3bc9.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.81d4a816334b5aeccdbb4af93a99afa4.js": "/home/precache-manifest.81d4a816334b5aeccdbb4af93a99afa4.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/2.93e9ecf4.chunk.css.map": "/home/static/css/2.93e9ecf4.chunk.css.map",
+    "static/css/main.003aee3a.chunk.css.map": "/home/static/css/main.003aee3a.chunk.css.map",
+    "static/media/2019-04-16-how-to-install-github-on-ubuntu.md": "/home/static/media/2019-04-16-how-to-install-github-on-ubuntu.7d70522b.md",
+    "static/media/2019-04-16-how-to-install-mysql-on-ubuntu.md": "/home/static/media/2019-04-16-how-to-install-mysql-on-ubuntu.8a89147c.md",
+    "static/media/2019-04-17-how-to-use-git.md": "/home/static/media/2019-04-17-how-to-use-git.ffa93498.md",
+    "static/media/2019-08-06-sql-study-notes.md": "/home/static/media/2019-08-06-sql-study-notes.f16a69c2.md"
   }
 }
